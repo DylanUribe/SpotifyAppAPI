@@ -31,6 +31,5 @@ Proyecto Flutter + Node.js que busca canciones y muestra previews usando la API 
 1. Instalar dependencias (en la carpeta donde esta el archivo pubspec.ya, osea en spotifinder)
   - flutter pub get
 
-2. Ejecutar app
--flutter run 
-(si abren backend y spotifinder juntos en VSCode no funciona, asegurense de ejecutar comando desde una cmd abierta en spotifinder o en VSCode click derecho a carpeta spotifinder y darle a la opcion "abrir en terminal integrada")
+2. Ejecutar app (si abren backend y spotifinder juntos en VSCode no funciona, asegurense de ejecutar comando desde una cmd abierta en spotifinder o en VSCode click derecho a carpeta spotifinder y darle a la opcion "abrir en terminal integrada")
+- flutter run 
